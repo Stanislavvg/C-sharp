@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj": {}
+    "D:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj": {}
   },
   "projects": {
-    "d:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj": {
+    "D:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj",
+        "projectUniqueName": "D:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj",
         "projectName": "Project 1",
-        "projectPath": "d:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj",
+        "projectPath": "D:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\Project 1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\obj\\",
+        "outputPath": "D:\\Documents\\Работа\\Кибербезопасность\\C#\\Seminar 1\\Project 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
