@@ -1,4 +1,4 @@
-﻿Console.Write("Введите номер дня недели (от 1 до 7 включительно): ");
+﻿Console.Write("Введите номер дня недели: ");
 int day = int.Parse(Console.ReadLine());
 
 switch (day)
