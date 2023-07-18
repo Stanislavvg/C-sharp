@@ -16,17 +16,16 @@ for (int x = 0; x < array.GetLength(0); x++)
 }
 
 Console.WriteLine("Изменённый массив:");
-int temp = array[0, 0];
 
-for (int x = 0; x < array.GetLength(0) - 1 - x; x++)
+for (int x = 0; x < array.GetLength(0) - 1; x++)
 {
-    for (int y = 0; y < array.GetLength(1); y++)
+    for (int y = 0; y < array.GetLength(1) - 1; y++)
     {
-        if (array[x, y] > temp)
+        if (array[x, y] > array[x + 1, y])
         {
-            temp = array[x, y];
-            array[x, y] = array[x + 1, y + 1];
-            array[x + 1, y + 1] = temp;
+            int temp = array[x, y];
+            array[x, y] = array[x + 1, y];
+            array[x + 1, y] = temp;
         }
     }
 }
